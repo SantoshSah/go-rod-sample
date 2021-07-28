@@ -1,4 +1,5 @@
-# add below to .env file
+1) add .env file
+2) add below content to .env file
 PRODUCT_TYPE_URL=https://nepallife.com.np/en/products
 
 # Test commands
